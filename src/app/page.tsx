@@ -1,5 +1,6 @@
 // import { unstable_noStore as noStore } from "next/cache";
 import ImportCards from "@/components/ImportCards";
+import { ThemeModeToggle } from "@/components/ThemeModeToggle";
 import { api } from "@/trpc/server";
 
 export const dynamic = "force-dynamic";
@@ -11,6 +12,7 @@ export default async function Home() {
   return (
     <main className="">
       <h1>Hun CAH</h1>
+      <ThemeModeToggle />
 
       {/* <ImportCards /> */}
 
