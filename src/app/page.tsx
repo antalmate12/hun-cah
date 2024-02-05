@@ -2,6 +2,8 @@
 import ImportCards from "@/components/ImportCards";
 import { api } from "@/trpc/server";
 
+export const dynamic = "force-dynamic";
+
 export default async function Home() {
   // noStore();
   const cards = await api.card.getAllCards.query();
