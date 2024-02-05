@@ -224,10 +224,10 @@
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
-"@planetscale/database@^1.11.0":
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/@planetscale/database/-/database-1.14.0.tgz#84bf093526feb64661f76642da5c41162e2b77dd"
-  integrity sha512-7BB+iH6EH4YJuDeVeEbxpo60BFz3wIXJNXCmBGl40eC4HStRMGZ1COxKfiuPcINWwwrJhAhI9AEI97AOZYT7JQ==
+"@planetscale/database@^1.15.0":
+  version "1.15.0"
+  resolved "https://registry.yarnpkg.com/@planetscale/database/-/database-1.15.0.tgz#56c0c41994484b791f83613fc723993ee2f70fd9"
+  integrity sha512-X4GmGGKE3o6tj/FM+ElDdyVb9BI8Y2OSSeOtyW/gCmVS0XLs4tTppg0cVLL89CS+awEhIIYXFDwqT3a7pbYROg==
 
 "@prisma/adapter-planetscale@^5.6.0":
   version "5.9.1"
